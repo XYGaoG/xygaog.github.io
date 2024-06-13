@@ -65,12 +65,12 @@ IEEE Signal Processing Letters, 2020
 
 Preprint
 ======
-1. :fire: **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
-[Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)
+1.**Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
+🔥 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)
 
 
-1. :fire: **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
-[Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
+1.  **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
+🔥 [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
 
 
 1. Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
