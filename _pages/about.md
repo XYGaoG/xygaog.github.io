@@ -8,8 +8,11 @@ redirect_from:
 ---
 
 
-Hi there! I am currently pursuing my Ph.D. at the University of Queensland under the supervision of Prof. [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Dr. [Tong Chen](https://researchers.uq.edu.au/researcher/27868). Between July and December 2021, I served as a research intern at Peking University, working with Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). Before this, I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University under the supervision of Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.
 
+Hi there! I am currently pursuing my Ph.D. at the University of Queensland under the supervision of Prof. [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Dr. [Tong Chen](https://researchers.uq.edu.au/researcher/27868). Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). Additionally, from Sep. 2019 to Sep. 2020, I was a visiting researcher at RWTH Aachen University, collaborating with Dr. [Philipp Graebel](https://www.lfb.rwth-aachen.de/en/institute/alumni/graebel/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof.[Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.
+
+
+**Email**: xinyi dot gao at uq dot edu dot au 
 
 
 Representative Publications
@@ -79,7 +82,13 @@ Preprint
 
 Honors and Awards
 ======
+* China National Scholarship (1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
 
+* China National Silver Award, China College Students’ Entrepreneurship National Competition
+(National A Class Competition)
+
+* Provincial Gold Award, China College Students’ Entrepreneurship Shaanxi Province
+Competition (Provincial A Class Competition)
 
 
 
