@@ -18,14 +18,13 @@ Representative Publications
 [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024
 
-
-1. **Xinyi Gao**, Wentao Zhang, Junliang Yu, Yingxia Shao, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin  
-[Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation](https://arxiv.org/abs/2310.10998)  
+1. **Xinyi Gao**, Tong Chen, Yilong Zang, Wentao Zhang, Quoc Viet Hung Nguyen, Kai Zheng, Hongzhi Yin  
+[Graph Condensation for Inductive Node Representation Learning](https://arxiv.org/abs/2307.15967)  
 IEEE International Conference on Data Engineering (ICDE), 2024
 
 
-1. **Xinyi Gao**, Tong Chen, Yilong Zang, Wentao Zhang, Quoc Viet Hung Nguyen, Kai Zheng, Hongzhi Yin  
-[Graph Condensation for Inductive Node Representation Learning](https://arxiv.org/abs/2307.15967)  
+1. **Xinyi Gao**, Wentao Zhang, Junliang Yu, Yingxia Shao, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin  
+[Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation](https://arxiv.org/abs/2310.10998)  
 IEEE International Conference on Data Engineering (ICDE), 2024
 
 
@@ -38,15 +37,6 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 Other Publications
 ======
-
-1. Wentao Zhang, **Xinyi Gao** (co-first author), Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui  
-BIM: Improving Graph Neural Networks with Balanced Influence Maximization  
-IEEE International Conference on Data Engineering (ICDE), 2024
-
-1. Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin  
-[Challenging Low Homophily in Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
-In Proceedings of the ACM Web Conference (WWW), 2024
-
 1. **Xinyi Gao**, Zhibin Pan, Erdun Gao, Guojun Fan  
 [Reversible data hiding for high dynamic range images using two-dimensional prediction-error histogram of the second time prediction](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
 Signal Processing, 2020
@@ -59,6 +49,13 @@ Signal Processing, 2023
 [Adaptive complexity for pixel-value-ordering based reversible data hiding](https://ieeexplore.ieee.org/document/9098041)  
 IEEE Signal Processing Letters, 2020
 
+1. Wentao Zhang, **Xinyi Gao** (co-first author), Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui  
+BIM: Improving Graph Neural Networks with Balanced Influence Maximization  
+IEEE International Conference on Data Engineering (ICDE), 2024
+
+1. Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin  
+[Challenging Low Homophily in Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
+In Proceedings of the ACM Web Conference (WWW), 2024
 
 
 
