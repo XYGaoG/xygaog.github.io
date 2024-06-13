@@ -53,7 +53,7 @@ Signal Processing, 2020
 
 1. **Xinyi Gao**, Zhibin Pan, Guojun Fan, Xiaoran Zhang, Hongzhi Yin  
 [Local feature-based mutual complexity for pixel-value-ordering reversible data hiding](https://www.sciencedirect.com/science/article/pii/S0165168422003723)  
-Signal Processing, 2020
+Signal Processing, 2023
 
 1. Zhibin Pan, **Xinyi Gao**, Erdun Gao, Guojun Fan  
 [Adaptive complexity for pixel-value-ordering based reversible data hiding](https://ieeexplore.ieee.org/document/9098041)  
@@ -65,11 +65,11 @@ IEEE Signal Processing Letters, 2020
 
 Preprint
 ======
-1. **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
+1. :fire: **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)
 
 
-1. **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
+1. :fire: **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
 [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
 
 
