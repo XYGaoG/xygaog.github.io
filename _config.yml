@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Xinyi Gao's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,10 +21,10 @@ repository               : "xygaog/xygaog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : photo.jpg
-  name             : "Xinyi Gao | 高昕毅"
+  avatar           : photo2.jpg
+  name             : "Xinyi GAO | 高昕毅"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : "Graph representation learning, Graph condensation, Signal processing"
   location         : "Brisbane"
   employer         : "The University of Queensland"
   uri              : # URL
