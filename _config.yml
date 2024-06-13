@@ -21,7 +21,7 @@ repository               : "xygaog/xygaog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : photo3.jpg
+  avatar           : photo.jpg
   name             : "Xinyi GAO | 高昕毅"
   pronouns         : # example: "she/her"  
   bio              : "Graph representation learning, Graph condensation, Signal processing"
