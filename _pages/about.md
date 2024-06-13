@@ -79,7 +79,8 @@ Preprint
 
 Honors and Awards
 ======
-* China National Scholarship (1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
+* China National Scholarship, the Ministry of Education of China 
+(1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
 
 * China National Silver Award, China College Students’ Entrepreneurship National Competition
 (National A Class Competition)
