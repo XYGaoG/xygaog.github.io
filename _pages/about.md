@@ -12,6 +12,22 @@ Hi there! I am currently pursuing my Ph.D. at the University of Queensland under
 **Email**: xinyi dot gao at uq dot edu dot au 
 
 
+Preprint
+======
+1. **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
+🔥 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)
+
+
+1.  **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
+🔥 [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
+
+
+1. Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
+[Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
+
+
+
+
 Representative Publications
 ======
 1. **Xinyi Gao**, Tong Chen, Wentao Zhang, Yayong Li, Xiangguo Sun, Hongzhi Yin  
@@ -49,7 +65,7 @@ Signal Processing, 2023
 [Adaptive complexity for pixel-value-ordering based reversible data hiding](https://ieeexplore.ieee.org/document/9098041)  
 IEEE Signal Processing Letters, 2020
 
-1. Wentao Zhang, **Xinyi Gao** (co-first author), Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui  
+1. Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui  
 BIM: Improving Graph Neural Networks with Balanced Influence Maximization  
 IEEE International Conference on Data Engineering (ICDE), 2024
 
@@ -60,18 +76,6 @@ In Proceedings of the ACM Web Conference (WWW), 2024
 
 
 
-Preprint
-======
-1. **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin  
-🔥 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)
-
-
-1.  **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
-🔥 [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
-
-
-1. Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
-[Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
 
 
 Honors and Awards
