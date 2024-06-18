@@ -81,7 +81,7 @@ In Proceedings of the ACM Web Conference (WWW), 2024
 Honors and Awards
 ======
 * China National Scholarship, the Ministry of Education of China 
-(1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
+(Rank 1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
 
 * China National Silver Award, China College Students’ Entrepreneurship National Competition
 (National A Class Competition)
