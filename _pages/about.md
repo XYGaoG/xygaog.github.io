@@ -21,8 +21,8 @@ Preprint
 1.  **Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin  
 🔥 [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)
 
-1.  **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
-🔥 [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)
+1.  **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui  
+[RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)
 
 1. Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
 [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
