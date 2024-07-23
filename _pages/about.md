@@ -15,7 +15,7 @@ Hi there! I am currently pursuing my Ph.D. at the University of Queensland under
 Preprint
 ======
 1. 🔥 [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
-**Xinyi Gao**, Junliang Yu, Wei Jiang, Tong Chen, Wentao Zhang, Hongzhi Yin
+**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
 1. 🔥 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
 **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin
