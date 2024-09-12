@@ -62,7 +62,7 @@ Signal Processing, 2020
 Signal Processing, 2023  
 **Xinyi Gao**, Zhibin Pan, Guojun Fan, Xiaoran Zhang, Hongzhi Yin
 
-1. [Adaptive complexity for pixel-value-ordering based reversible data hiding](https://ieeexplore.ieee.org/document/9098041)  
+1. [Adaptive Complexity for Pixel-Value-Ordering Based Reversible Data Hiding](https://ieeexplore.ieee.org/document/9098041)  
 IEEE Signal Processing Letters, 2020  
 Zhibin Pan, **Xinyi Gao**, Erdun Gao, Guojun Fan
 
