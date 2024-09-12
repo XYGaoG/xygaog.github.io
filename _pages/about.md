@@ -43,20 +43,22 @@ IEEE International Conference on Data Engineering (ICDE), 2024
 IEEE International Conference on Data Engineering (ICDE), 2024  
 **Xinyi Gao**, Wentao Zhang, Junliang Yu, Yingxia Shao, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin
 
+1. [BIM: Improving Graph Neural Networks with Balanced Influence Maximization](https://ieeexplore.ieee.org/document/10597992)  
+IEEE International Conference on Data Engineering (ICDE), 2024  
+Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui
 
 1. [Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks](https://arxiv.org/abs/2302.14061)  
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
 
-
 Other Publications
 ======
-1. [Reversible data hiding for high dynamic range images using two-dimensional prediction-error histogram of the second time prediction](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
+1. [Reversible Data Hiding for High Dynamic Range Images Using Two-Dimensional Prediction-Error Histogram of the Second Time Prediction](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
 Signal Processing, 2020  
 **Xinyi Gao**, Zhibin Pan, Erdun Gao, Guojun Fan
 
-1. [Local feature-based mutual complexity for pixel-value-ordering reversible data hiding](https://www.sciencedirect.com/science/article/pii/S0165168422003723)  
+1. [Local Feature-Based Mutual Complexity for Pixel-Value-Ordering Reversible Data Hiding](https://www.sciencedirect.com/science/article/pii/S0165168422003723)  
 Signal Processing, 2023  
 **Xinyi Gao**, Zhibin Pan, Guojun Fan, Xiaoran Zhang, Hongzhi Yin
 
@@ -64,12 +66,7 @@ Signal Processing, 2023
 IEEE Signal Processing Letters, 2020  
 Zhibin Pan, **Xinyi Gao**, Erdun Gao, Guojun Fan
 
-
-1. BIM: Improving Graph Neural Networks with Balanced Influence Maximization  
-IEEE International Conference on Data Engineering (ICDE), 2024  
-Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui
-
-1. Reliable Node Similarity Matrix Guided Contrastive Graph Clustering  
+1. [Reliable Node Similarity Matrix Guided Contrastive Graph Clustering](https://arxiv.org/abs/2408.03765)  
 Transactions on Knowledge and Data Engineering (TKDE), 2024  
 Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 
