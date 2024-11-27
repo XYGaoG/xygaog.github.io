@@ -14,10 +14,13 @@ Hi there! I am currently pursuing my Ph.D. at the University of Queensland under
 
 Preprint
 ======
-1. 🔥 [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+1. [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
-1. 🔥 [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
+1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
+**Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+
+1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
 **Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin
 
 1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
@@ -37,7 +40,6 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024
 1. [Graph Condensation for Inductive Node Representation Learning](https://arxiv.org/abs/2307.15967)  
 IEEE International Conference on Data Engineering (ICDE), 2024  
 **Xinyi Gao**, Tong Chen, Yilong Zang, Wentao Zhang, Quoc Viet Hung Nguyen, Kai Zheng, Hongzhi Yin
-
 
 1. [Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation](https://arxiv.org/abs/2310.10998)    
 IEEE International Conference on Data Engineering (ICDE), 2024  
