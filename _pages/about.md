@@ -56,6 +56,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 Other Publications
 ======
+
 1. [Reversible Data Hiding for High Dynamic Range Images Using Two-Dimensional Prediction-Error Histogram of the Second Time Prediction](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
 Signal Processing, 2020  
 **Xinyi Gao**, Zhibin Pan, Erdun Gao, Guojun Fan
@@ -76,6 +77,9 @@ Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 In Proceedings of the ACM Web Conference (WWW), 2024  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 
+1. [Training-free Heterogeneous Graph Condensation via Data Selection]
+IEEE International Conference on Data Engineering (ICDE), 2025
+Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Yunhai Tong, Bin Cui
 
 Honors and Awards
 ======
