@@ -77,8 +77,8 @@ Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 In Proceedings of the ACM Web Conference (WWW), 2024  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 
-1. [Training-free Heterogeneous Graph Condensation via Data Selection]
-IEEE International Conference on Data Engineering (ICDE), 2025
+1. Training-free Heterogeneous Graph Condensation via Data Selection  
+IEEE International Conference on Data Engineering (ICDE), 2025  
 Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Yunhai Tong, Bin Cui
 
 Honors and Awards
