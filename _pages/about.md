@@ -7,22 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently pursuing my Ph.D. at the University of Queensland under the supervision of Prof. [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Dr. [Tong Chen](https://researchers.uq.edu.au/researcher/27868). Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). Additionally, from Sep. 2019 to Sep. 2020, I was a visiting researcher at RWTH Aachen University, collaborating with Dr. [Philipp Gräebel](https://www.lfb.rwth-aachen.de/en/institute/alumni/graebel/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively. My research focuses on efficient and generalized graph representation learning.
+Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Dr. [Tong Chen](https://researchers.uq.edu.au/researcher/27868). Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively. My research focuses on efficient and generalized graph representation learning.
 
 **Email**: xinyi.gao AT uq.edu.au 
 
----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-Tutorial
+Selected Publications
 ======
-1. Graph Condensation: Foundations, Methods and Prospects  
+
+<div>
+    <span style="display: inline-block; background-color: #e7e7e7; color: black; padding: 3px 5px; text-align: center; border-radius: 4px; font-weight: bold; width: 50px;">TKDE</span>
+    <strong>XSImGCL: Towards extremely simple graph contrastive learning for recommendation</strong><br>
+    <span style="margin-left: 60px;">Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, and Hongzhi Yin</span><br>
+    <span style="margin-left: 60px;">*IEEE Transactions on Knowledge and Data Engineering, 2023*</span><br>
+    <span style="margin-left: 60px;">ESI Highly Cited Paper</span><br>
+    <span style="margin-left: 60px;">[PDF](URL) [CODE](URL)</span>
+</div>
+
+<div>
+    <span style="display: inline-block; background-color: #e7e7e7; color: black; padding: 3px 5px; text-align: center; border-radius: 4px; font-weight: bold; width: 50px;">TKDE</span>
+    <strong>XSImGCL: Towards extremely simple graph contrastive learning for recommendation</strong><br>
+    <span style="margin-left: 60px;">Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, and Hongzhi Yin</span><br>
+    <span style="margin-left: 60px;">*IEEE Transactions on Knowledge and Data Engineering, 2023*</span><br>
+    <span style="margin-left: 60px;">ESI Highly Cited Paper</span><br>
+    <span style="margin-left: 60px;">[PDF](URL) [CODE](URL)</span>
+</div>
+
+1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+
+
+1. [Graph Condensation: Foundations, Methods and Prospects](https://www2025.thewebconf.org/tutorials-track)  
 The Web Conference (WWW), 2025  
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
 
----
 
-Representative Publications
-======
 1. [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
 **Xinyi Gao**, Tong Chen, Wentao Zhang, Yayong Li, Xiangguo Sun, Hongzhi Yin
@@ -43,12 +63,11 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 Preprint
 ======
-1. [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
-**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
 **Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
@@ -62,7 +81,7 @@ Preprint
 1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
 Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
 
----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
 Other Publications
@@ -101,7 +120,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
 
----
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 Honors and Awards
 ======
