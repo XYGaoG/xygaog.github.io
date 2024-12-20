@@ -22,10 +22,12 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 **Email**: xinyi.gao AT uq.edu.au 
 
 
-<br>
+
+<div style="margin-top: 30px">
 
 ---
 
+</div>
 
 News
 ======
@@ -64,8 +66,11 @@ News
 
 
 
-&nbsp;
+<div style="margin-top: 30px">
+
 ---
+
+</div>
 
 Selected Publications
 ======
@@ -101,8 +106,11 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 
 
-&nbsp;
+<div style="margin-top: 30px">
+
 ---
+
+</div>
 
 Preprint
 ======
@@ -122,8 +130,11 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 
 
-&nbsp;
+<div style="margin-top: 30px">
+
 ---
+
+</div>
 
 
 
@@ -164,8 +175,12 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 
 
 
-&nbsp;
+<div style="margin-top: 30px">
+
 ---
+
+</div>
+
 
 Honors and Awards
 ======
