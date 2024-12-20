@@ -81,6 +81,15 @@ Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 IEEE International Conference on Data Engineering (ICDE), 2025  
 Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Yunhai Tong, Bin Cui
 
+1. FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis  
+AAAI Conference on Artificial Intelligence (AAAI), 2025  
+Guochen Yan, Luyuan Xie, **Xinyi Gao**, Wentao Zhang, Qingni Shen, Yuejian Fang, Zhonghai Wu  
+
+1. Efficient Traffic Prediction through Spatio-Temporal Distillation  
+AAAI Conference on Artificial Intelligence (AAAI), 2025  
+Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
+
+
 Honors and Awards
 ======
 * China National Scholarship, the Ministry of Education of China 
