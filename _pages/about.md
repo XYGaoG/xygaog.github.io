@@ -23,7 +23,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 
 
-<div style="margin-top: 30px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -64,8 +64,7 @@ News
 
 
 
-<div style="margin-top: 30px; border-top: 1px solid #f0f0f0;"></div>
-
+<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 Selected Publications
 ======
@@ -100,8 +99,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
 
-<div style="margin-top: 30px; border-top: 1px solid #f0f0f0;"></div>
-
+<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 Preprint
 ======
@@ -121,8 +119,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 
 
-<div style="margin-top: 30px; border-top: 1px solid #f0f0f0;"></div>
-
+<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -163,8 +160,7 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 
 
 
-<div style="margin-top: 30px; border-top: 1px solid #f0f0f0;"></div>
-
+<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 Honors and Awards
