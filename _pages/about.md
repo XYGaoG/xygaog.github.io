@@ -30,29 +30,29 @@ News
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-km2t">Dec 10, 2024</th>
-    <th class="tg-zv4m"></th>
-    <th class="tg-zv4m">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</th>
+    <th class="tg-3m6e">Dec 10</th>
+    <th class="tg-oe15"></th>
+    <th class="tg-oe15">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-km2t">Dec 06, 2024</td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
+    <td class="tg-3m6e">Dec 06</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
   </tr>
   <tr>
-    <td class="tg-km2t">Nov 26, 2024</td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">We have released a preprint paper on self-supervised graph condensation.</td>
+    <td class="tg-3m6e">Nov 26</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have released a preprint paper on self-supervised graph condensation.</td>
   </tr>
 </tbody>
 </table>
