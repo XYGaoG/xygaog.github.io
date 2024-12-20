@@ -12,6 +12,13 @@ Hi there! I am currently pursuing my Ph.D. at the University of Queensland under
 **Email**: xinyi.gao AT uq.edu.au 
 
 
+Tutorial
+======
+1. Graph Condensation: Foundations, Methods and Prospects  
+The Web Conference (WWW), 2025  
+Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
+
+
 Preprint
 ======
 1. [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
@@ -90,6 +97,8 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
 
+
+
 Honors and Awards
 ======
 * China National Scholarship, the Ministry of Education of China 
@@ -100,6 +109,9 @@ Honors and Awards
 
 * Provincial Gold Award, China College Students’ Entrepreneurship Shaanxi Province
 Competition (Provincial A Class Competition)
+
+
+
 
 
 
