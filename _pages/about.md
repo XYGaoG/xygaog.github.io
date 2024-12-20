@@ -15,24 +15,15 @@ Hi there! I am currently in the fourth year of my Ph.D. studies at the Universit
 
 Selected Publications
 ======
-
-<div>
-    <span style="display: inline-block; background-color: #e7e7e7; color: black; padding: 3px 5px; text-align: center; border-radius: 4px; font-weight: bold; width: 50px;">TKDE</span>
+<div style="margin-bottom: 20px;">
+    <span style="background-color: #e7e7e7; color: black; padding: 3px 5px; text-align: center; border-radius: 4px; font-weight: bold;">TKDE</span>
     <strong>XSImGCL: Towards extremely simple graph contrastive learning for recommendation</strong><br>
-    <span style="margin-left: 60px;">Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, and Hongzhi Yin</span><br>
-    <span style="margin-left: 60px;">*IEEE Transactions on Knowledge and Data Engineering, 2023*</span><br>
-    <span style="margin-left: 60px;">ESI Highly Cited Paper</span><br>
-    <span style="margin-left: 60px;">[PDF](URL) [CODE](URL)</span>
+    Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, and Hongzhi Yin<br>
+    <em>IEEE Transactions on Knowledge and Data Engineering, 2023*</em><br>
+    ESI Highly Cited Paper<br>
+    [PDF](URL) | [CODE](URL)
 </div>
 
-<div>
-    <span style="display: inline-block; background-color: #e7e7e7; color: black; padding: 3px 5px; text-align: center; border-radius: 4px; font-weight: bold; width: 50px;">TKDE</span>
-    <strong>XSImGCL: Towards extremely simple graph contrastive learning for recommendation</strong><br>
-    <span style="margin-left: 60px;">Junliang Yu, Xin Xia, Tong Chen, Lizhen Cui, Nguyen Quoc Viet Hung, and Hongzhi Yin</span><br>
-    <span style="margin-left: 60px;">*IEEE Transactions on Knowledge and Data Engineering, 2023*</span><br>
-    <span style="margin-left: 60px;">ESI Highly Cited Paper</span><br>
-    <span style="margin-left: 60px;">[PDF](URL) [CODE](URL)</span>
-</div>
 
 1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
