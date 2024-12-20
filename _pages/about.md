@@ -24,11 +24,30 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 News
 ======
 
-<div style="margin-left: 20px">
-    <p><strong>Dec 10, 2024</strong> - We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</p>
-    <p><strong>Dec 06, 2024</strong> - Our tutorial on graph condensation has been accepted for presentation at WWW'25.</p>
-    <p><strong>Nov 26, 2024</strong> - We have released a preprint paper on self-supervised graph condensation.</p>
-</div>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-zv4m">Dec 10, 2024</th>
+    <th class="tg-zv4m">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m">Dec 06, 2024</td>
+    <td class="tg-zv4m">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">Nov 26, 2024</td>
+    <td class="tg-zv4m">We have released a preprint paper on self-supervised graph condensation.</td>
+  </tr>
+</tbody>
+</table>
 
 
 <hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
