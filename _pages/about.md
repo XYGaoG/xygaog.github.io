@@ -11,6 +11,7 @@ Hi there! I am currently pursuing my Ph.D. at the University of Queensland under
 
 **Email**: xinyi.gao AT uq.edu.au 
 
+---
 
 Tutorial
 ======
@@ -18,6 +19,7 @@ Tutorial
 The Web Conference (WWW), 2025  
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
 
+---
 
 Representative Publications
 ======
@@ -41,6 +43,7 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
+---
 
 Preprint
 ======
@@ -58,6 +61,8 @@ Preprint
 
 1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
 Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
+
+---
 
 
 Other Publications
@@ -96,7 +101,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
 
-
+---
 
 Honors and Awards
 ======
