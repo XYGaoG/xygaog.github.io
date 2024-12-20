@@ -11,7 +11,7 @@ Hi there! I am currently in the fourth year of my Ph.D. studies at the Universit
 
 Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.  
 
-<p style="margin: 0;">Research Interests</p>
+<p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
 <li style="margin: 0;"> Graph learning </li>
@@ -27,12 +27,11 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 News
 ======
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17.5px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17.5px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
@@ -41,16 +40,19 @@ News
   <tr>
     <th class="tg-3m6e">Dec 10</th>
     <th class="tg-oe15"></th>
+    <th class="tg-oe15"></th>
     <th class="tg-oe15">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-3m6e">Dec 06</td>
     <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
   </tr>
   <tr>
     <td class="tg-3m6e">Nov 26</td>
+    <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have released a preprint paper on self-supervised graph condensation.</td>
   </tr>
