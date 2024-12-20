@@ -18,28 +18,17 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 **Email**: xinyi.gao AT uq.edu.au 
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
 
 
 News
 ======
 
-<table style="border-collapse: collapse; width: 100%;">
-    <tr style="border: none;">
-        <td style="border: none; padding-right: 10px; font-weight: bold;">Dec 10, 2024</td>
-        <td style="border: none;">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none; padding-right: 10px; font-weight: bold;">Dec 06, 2024</td>
-        <td style="border: none;">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
-    </tr>
-    <tr style="border: none;">
-        <td style="border: none; padding-right: 10px; font-weight: bold;">Nov 26, 2024</td>
-        <td style="border: none;">We have released a preprint paper on self-supervised graph condensation.</td>
-    </tr>
-</table>
-
-
+<div style="margin-left: 20px">
+    <p><strong>Dec 10, 2024</strong> - We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</p>
+    <p><strong>Dec 06, 2024</strong> - Our tutorial on graph condensation has been accepted for presentation at WWW'25.</p>
+    <p><strong>Nov 26, 2024</strong> - We have released a preprint paper on self-supervised graph condensation.</p>
+</div>
 
 
 
@@ -75,7 +64,7 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
 
 Preprint
 ======
@@ -93,7 +82,7 @@ Preprint
 1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
 Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
 
 
 Other Publications
@@ -132,7 +121,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
 
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
 
 Honors and Awards
 ======
