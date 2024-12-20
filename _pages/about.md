@@ -12,9 +12,9 @@ Hi there! I am currently in the fourth year of my Ph.D. studies at the Universit
 Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.  
 
 **Research Interests**  
-- Graph learning  
-- Data-centric AI  
-- Efficient and generalized data mining  
+- Graph learning
+- Data-centric AI
+- Efficient and generalized data mining
 
 **Email**: xinyi.gao AT uq.edu.au 
 
@@ -31,6 +31,7 @@ News
 </div>
 
 
+<hr style="height:2px;border-width:0;color:lightgray;background-color:lightgray">
 
 Selected Publications
 ======
