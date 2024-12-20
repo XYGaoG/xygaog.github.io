@@ -20,7 +20,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 </ul>
 
   
-**Email**: xinyi.gao AT uq.edu.au 
+<!-- **Email**: xinyi.gao AT uq.edu.au  -->
 
 
 
