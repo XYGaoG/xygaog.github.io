@@ -33,7 +33,7 @@ News
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:17.5px;overflow:hidden;padding:1px 5px;line-height: 1.5;word-break:normal;white-space: nowrap;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:17.5px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-size:17.5px;line-height: 1.2;
   font-weight:normal;overflow:hidden;padding:1px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
