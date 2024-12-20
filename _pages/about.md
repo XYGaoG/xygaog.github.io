@@ -11,10 +11,13 @@ Hi there! I am currently in the fourth year of my Ph.D. studies at the Universit
 
 Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.  
 
-**Research Interests**  
-- Graph learning
-- Data-centric AI
-- Efficient and generalized data mining
+<p style="margin: 0;">Research Interests</p>
+
+<ul style="margin: 0;">
+<li style="margin: 0;"> Graph learning </li>
+<li style="margin: 0;"> Data-centric AI </li>
+<li > Efficient and generalized data mining </li>
+</ul>
 
 **Email**: xinyi.gao AT uq.edu.au 
 
@@ -26,9 +29,9 @@ News
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:1em;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:1em;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 </style>
