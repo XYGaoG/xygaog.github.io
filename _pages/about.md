@@ -19,25 +19,6 @@ The Web Conference (WWW), 2025
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
 
 
-Preprint
-======
-1. [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
-**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
-
-1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
-**Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
-
-1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
-**Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin
-
-1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
-**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
-
-1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
-Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
-
-
-
 Representative Publications
 ======
 1. [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
@@ -59,6 +40,24 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 1. [Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks](https://arxiv.org/abs/2302.14061)  
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
+
+
+Preprint
+======
+1. [Graph Condensation: A Survey (v2)](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+
+1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
+**Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+
+1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
+**Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin
+
+1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
+**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
+
+1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
+Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
 
 
 Other Publications
