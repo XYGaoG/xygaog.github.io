@@ -23,7 +23,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 
 
-<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 25px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -33,7 +33,7 @@ News
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-size:17.5px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
+  overflow:hidden;padding:10px 5px;word-break:normal;white-space: nowrap;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-size:17.5px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
@@ -64,7 +64,7 @@ News
 
 
 
-<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 25px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 Selected Publications
 ======
@@ -99,7 +99,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
 
-<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 25px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 Preprint
 ======
@@ -119,7 +119,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 
 
-<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 25px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -160,7 +160,7 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 
 
 
-<div style="margin-top: 15px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 25px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
 
 
 Honors and Awards
