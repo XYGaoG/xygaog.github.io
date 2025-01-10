@@ -24,7 +24,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 
 
-<div style="margin-top: 35px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -64,7 +64,7 @@ News
 
 
 
-<div style="margin-top: 35px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 Selected Publications
 ======
@@ -99,7 +99,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
 
-<div style="margin-top: 35px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 Preprint
 ======
@@ -119,7 +119,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 
 
-<div style="margin-top: 35px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -146,11 +146,11 @@ Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 In Proceedings of the ACM Web Conference (WWW), 2024  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 
-1. Training-free Heterogeneous Graph Condensation via Data Selection  
+1. [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250)  
 IEEE International Conference on Data Engineering (ICDE), 2025  
 Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Yunhai Tong, Bin Cui
 
-1. FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis  
+1. [FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis](https://arxiv.org/abs/2412.18557)  
 AAAI Conference on Artificial Intelligence (AAAI), 2025  
 Guochen Yan, Luyuan Xie, **Xinyi Gao**, Wentao Zhang, Qingni Shen, Yuejian Fang, Zhonghai Wu  
 
@@ -160,7 +160,7 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 
 
 
-<div style="margin-top: 35px; margin-bottom: 15px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 
 Honors and Awards
