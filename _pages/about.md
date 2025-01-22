@@ -79,11 +79,11 @@ Selected Publications
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
 1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
-In Proceedings of the ACM Web Conference (WWW), 2025  
+ACM Web Conference (WWW), 2025  
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
 1. [Graph Condensation: Foundations, Methods and Prospects](https://www2025.thewebconf.org/tutorials-track)  
-The Web Conference Tutorials Track (WWW), 2025  
+ACM Web Conference Tutorials Track (WWW), 2025  
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
 
 1. [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
@@ -148,7 +148,7 @@ Transactions on Knowledge and Data Engineering (TKDE), 2024
 Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 
 1. [Challenging Low Homophily in Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
-In Proceedings of the ACM Web Conference (WWW), 2024  
+ACM Web Conference (WWW), 2024  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 
 1. [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250)  
@@ -164,7 +164,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2025
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
 1. [Epidemiology-informed Network for Robust Rumor Detection](https://arxiv.org/abs/2411.12949)  
-In Proceedings of the ACM Web Conference (WWW), 2025  
+ACM Web Conference (WWW), 2025  
 Wei Jiang, Tong Chen, **Xinyi Gao**, Wentao Zhang, Lizhen Cui, Hongzhi Yin  
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
