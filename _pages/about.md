@@ -41,20 +41,26 @@ News
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-3m6e">Dec 10</th>
+    <th class="tg-3m6e">22/01/2025</th>
     <th class="tg-oe15"></th>
     <th class="tg-oe15"></th>
-    <th class="tg-oe15">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</th>
+    <th class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-3m6e">Dec 06</td>
+    <td class="tg-3m6e">10/12/2024</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">06/12/2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Nov 26</td>
+    <td class="tg-3m6e">26/11/2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have released a preprint paper on self-supervised graph condensation.</td>
@@ -72,11 +78,13 @@ Selected Publications
 1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
+1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
+In Proceedings of the ACM Web Conference (WWW), 2025  
+**Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
 1. [Graph Condensation: Foundations, Methods and Prospects](https://www2025.thewebconf.org/tutorials-track)  
 The Web Conference Tutorials Track (WWW), 2025  
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
-
 
 1. [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
@@ -107,9 +115,6 @@ Preprint
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
 **Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
-
-1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
-**Xinyi Gao**, Tong Chen, Wentao Zhang, Junliang Yu, Guanhua Ye, Quoc Viet Hung Nguyen, Hongzhi Yin
 
 1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
 **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
@@ -154,11 +159,13 @@ Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Y
 AAAI Conference on Artificial Intelligence (AAAI), 2025  
 Guochen Yan, Luyuan Xie, **Xinyi Gao**, Wentao Zhang, Qingni Shen, Yuejian Fang, Zhonghai Wu  
 
-1. Efficient Traffic Prediction through Spatio-Temporal Distillation  
+1. [Efficient Traffic Prediction through Spatio-Temporal Distillation](https://arxiv.org/abs/2501.10459)  
 AAAI Conference on Artificial Intelligence (AAAI), 2025  
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
-
+1. [Epidemiology-informed Network for Robust Rumor Detection](https://arxiv.org/abs/2411.12949)  
+In Proceedings of the ACM Web Conference (WWW), 2025  
+Wei Jiang, Tong Chen, **Xinyi Gao**, Wentao Zhang, Lizhen Cui, Hongzhi Yin  
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
