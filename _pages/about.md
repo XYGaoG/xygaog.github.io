@@ -44,7 +44,7 @@ News
     <th class="tg-3m6e">26/01/2025</th>
     <th class="tg-oe15"></th>
     <th class="tg-oe15"></th>
-    <th class="tg-oe15">Our survey paper on graph condensation has been accepted at TKDE'25.</th>
+    <th class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</th>
   </tr></thead>
 <tbody>
     <tr>
@@ -81,9 +81,9 @@ News
 Selected Publications
 ======
 
-1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)
+1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
 Transactions on Knowledge and Data Engineering (TKDE), 2025  
-**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
+**Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
 
 1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
 ACM Web Conference (WWW), 2025  
@@ -125,11 +125,6 @@ Preprint
 
 1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
 **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
-
-1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
-Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
-
-
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
@@ -173,6 +168,11 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 1. [Epidemiology-informed Network for Robust Rumor Detection](https://arxiv.org/abs/2411.12949)  
 ACM Web Conference (WWW), 2025  
 Wei Jiang, Tong Chen, **Xinyi Gao**, Wentao Zhang, Lizhen Cui, Hongzhi Yin  
+
+1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
+Transactions on Knowledge and Data Engineering (TKDE), 2025  
+Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
+
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
