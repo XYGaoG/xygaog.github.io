@@ -41,12 +41,18 @@ News
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-3m6e">22/01/2025</th>
+    <th class="tg-3m6e">26/01/2025</th>
     <th class="tg-oe15"></th>
     <th class="tg-oe15"></th>
-    <th class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</th>
+    <th class="tg-oe15">Our survey paper on graph condensation has been accepted at TKDE'25.</th>
   </tr></thead>
 <tbody>
+    <tr>
+    <td class="tg-3m6e">22/01/2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</td>
+  </tr>
   <tr>
     <td class="tg-3m6e">10/12/2024</td>
     <td class="tg-oe15"></td>
@@ -75,7 +81,8 @@ News
 Selected Publications
 ======
 
-1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)
+Transactions on Knowledge and Data Engineering (TKDE), 2025  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
 1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
