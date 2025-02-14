@@ -39,15 +39,29 @@ News
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
 </style>
-<table class="tg"><thead>
+<table class="tg">
+<!--   <thead>
   <tr>
     <th class="tg-3m6e">26/01/2025</th>
     <th class="tg-oe15"></th>
     <th class="tg-oe15"></th>
     <th class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</th>
-  </tr></thead>
+  </tr>
+  </thead> -->
 <tbody>
-    <tr>
+  <tr>
+    <td class="tg-3m6e">14/02/2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have release a survey paper on imbalanced data learning.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">22/01/2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</td>
+  </tr>
+  <tr>
     <td class="tg-3m6e">22/01/2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
@@ -125,6 +139,9 @@ Preprint
 
 1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
 **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
+
+1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
+**Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
