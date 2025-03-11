@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 body {
-    font-size: 17px;  /* 设置全局正文字体大小 */
+    font-size: 16.5px;  /* 设置全局正文字体大小 */
 }
 </style>
 
@@ -115,7 +115,7 @@ ACM Web Conference (WWW), 2025
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
 
-1. **Graph Condensation for Open-World Graph Learning**[[paper]](https://arxiv.org/abs/2405.17003)  
+1. **Graph Condensation for Open-World Graph Learning** [[paper]](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
 **Xinyi Gao**, Tong Chen, Wentao Zhang, Yayong Li, Xiangguo Sun, Hongzhi Yin
 
