@@ -75,7 +75,7 @@ News
     <td class="tg-3m6e">10/12/2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation and efficient spatio-temporal prediction accepted at AAAI'25.</td>
+    <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
   </tr>
   <tr>
     <td class="tg-3m6e">06/12/2024</td>
