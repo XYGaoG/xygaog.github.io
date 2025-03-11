@@ -107,35 +107,35 @@ Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung 
 Selected Publications
 ======
 
-1. Graph Condensation: A Survey [[paper]](https://arxiv.org/abs/2401.11720) [[github]](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+1. Graph Condensation: A Survey [[paper]](https://arxiv.org/abs/2401.11720) [[repo]](https://github.com/XYGaoG/Graph-Condensation-Papers)  
 Transactions on Knowledge and Data Engineering (TKDE), 2025  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
-1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
+1. Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition [[paper]](https://arxiv.org/abs/2405.13707)  
 ACM Web Conference (WWW), 2025  
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
-1. [Graph Condensation: Foundations, Methods and Prospects](https://www2025.thewebconf.org/tutorials-track)  
+1. Graph Condensation: Foundations, Methods and Prospects [[paper]](https://www2025.thewebconf.org/tutorials-track)  
 ACM Web Conference Tutorials Track (WWW), 2025  
 Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
 
-1. [Graph Condensation for Open-World Graph Learning](https://arxiv.org/abs/2405.17003)  
+1. Graph Condensation for Open-World Graph Learning [[paper]](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
 **Xinyi Gao**, Tong Chen, Wentao Zhang, Yayong Li, Xiangguo Sun, Hongzhi Yin
 
-1. [Graph Condensation for Inductive Node Representation Learning](https://arxiv.org/abs/2307.15967)  
+1. Graph Condensation for Inductive Node Representation Learning [[paper]](https://arxiv.org/abs/2307.15967)  
 IEEE International Conference on Data Engineering (ICDE), 2024  
 **Xinyi Gao**, Tong Chen, Yilong Zang, Wentao Zhang, Quoc Viet Hung Nguyen, Kai Zheng, Hongzhi Yin
 
-1. [Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation](https://arxiv.org/abs/2310.10998)    
+1. Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation [[paper]](https://arxiv.org/abs/2310.10998)    
 IEEE International Conference on Data Engineering (ICDE), 2024  
 **Xinyi Gao**, Wentao Zhang, Junliang Yu, Yingxia Shao, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin
 
-1. [BIM: Improving Graph Neural Networks with Balanced Influence Maximization](https://ieeexplore.ieee.org/document/10597992)  
+1. BIM: Improving Graph Neural Networks with Balanced Influence Maximization [[paper]](https://ieeexplore.ieee.org/document/10597992)  
 IEEE International Conference on Data Engineering (ICDE), 2024  
 Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui
 
-1. [Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks](https://arxiv.org/abs/2302.14061)  
+1. Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks [[paper]](https://arxiv.org/abs/2302.14061)  
 ACM International Conference on Information and Knowledge Management (CIKM), 2023  
 **Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
@@ -146,13 +146,13 @@ Preprint
 ======
 
 
-1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
+1. Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning [[paper]](https://arxiv.org/abs/2411.17063)  
 **Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
-1. [RobGC: Towards Robust Graph Condensation](https://arxiv.org/abs/2406.13200)  
+1. RobGC: Towards Robust Graph Condensation [[paper]](https://arxiv.org/abs/2406.13200)  
 **Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
 
-1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
+1. A Comprehensive Survey on Imbalanced Data Learning [[paper]](https://arxiv.org/abs/2502.08960)  
 **Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
@@ -162,43 +162,43 @@ Preprint
 Other Publications
 ======
 
-1. [Reversible Data Hiding for High Dynamic Range Images Using Two-Dimensional Prediction-Error Histogram of the Second Time Prediction](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
+1. Reversible Data Hiding for High Dynamic Range Images Using Two-Dimensional Prediction-Error Histogram of the Second Time Prediction [[paper]](https://www.sciencedirect.com/science/article/pii/S0165168420301225)  
 Signal Processing, 2020  
 **Xinyi Gao**, Zhibin Pan, Erdun Gao, Guojun Fan
 
-1. [Local Feature-Based Mutual Complexity for Pixel-Value-Ordering Reversible Data Hiding](https://www.sciencedirect.com/science/article/pii/S0165168422003723)  
+1. Local Feature-Based Mutual Complexity for Pixel-Value-Ordering Reversible Data Hiding [[paper]](https://www.sciencedirect.com/science/article/pii/S0165168422003723)  
 Signal Processing, 2023  
 **Xinyi Gao**, Zhibin Pan, Guojun Fan, Xiaoran Zhang, Hongzhi Yin
 
-1. [Adaptive Complexity for Pixel-Value-Ordering Based Reversible Data Hiding](https://ieeexplore.ieee.org/document/9098041)  
+1. Adaptive Complexity for Pixel-Value-Ordering Based Reversible Data Hiding [[paper]](https://ieeexplore.ieee.org/document/9098041)  
 IEEE Signal Processing Letters, 2020  
 Zhibin Pan, **Xinyi Gao**, Erdun Gao, Guojun Fan
 
-1. [Reliable Node Similarity Matrix Guided Contrastive Graph Clustering](https://arxiv.org/abs/2408.03765)  
+1. Reliable Node Similarity Matrix Guided Contrastive Graph Clustering [[paper]](https://arxiv.org/abs/2408.03765)  
 Transactions on Knowledge and Data Engineering (TKDE), 2024  
 Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 
-1. [Challenging Low Homophily in Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
+1. Challenging Low Homophily in Social Recommendation [[paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
 ACM Web Conference (WWW), 2024  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 
-1. [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250)  
+1. Training-free Heterogeneous Graph Condensation via Data Selection [[paper]](https://arxiv.org/abs/2412.16250)  
 IEEE International Conference on Data Engineering (ICDE), 2025  
 Yuxuan Liang, Wentao Zhang, **Xinyi Gao**, Ling Yang, Chong Chen, Hongzhi Yin, Yunhai Tong, Bin Cui
 
-1. [FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis](https://arxiv.org/abs/2412.18557)  
+1. FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis [[paper]](https://arxiv.org/abs/2412.18557)  
 AAAI Conference on Artificial Intelligence (AAAI), 2025  
 Guochen Yan, Luyuan Xie, **Xinyi Gao**, Wentao Zhang, Qingni Shen, Yuejian Fang, Zhonghai Wu  
 
-1. [Efficient Traffic Prediction through Spatio-Temporal Distillation](https://arxiv.org/abs/2501.10459)  
+1. Efficient Traffic Prediction through Spatio-Temporal Distillation [[paper]](https://arxiv.org/abs/2501.10459)  
 AAAI Conference on Artificial Intelligence (AAAI), 2025  
 Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin  
 
-1. [Epidemiology-informed Network for Robust Rumor Detection](https://arxiv.org/abs/2411.12949)  
+1. Epidemiology-informed Network for Robust Rumor Detection [[paper]](https://arxiv.org/abs/2411.12949)  
 ACM Web Conference (WWW), 2025  
 Wei Jiang, Tong Chen, **Xinyi Gao**, Wentao Zhang, Lizhen Cui, Hongzhi Yin  
 
-1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
+1. Acceleration Algorithms in GNNs: A Survey [[paper]](https://arxiv.org/abs/2405.04114)  
 Transactions on Knowledge and Data Engineering (TKDE), 2025  
 Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
 
