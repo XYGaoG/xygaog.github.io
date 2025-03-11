@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 body {
-    font-size: 16px;  /* 设置全局正文字体大小 */
+    font-size: 17px;  /* 设置全局正文字体大小 */
 }
 </style>
 
@@ -40,8 +40,8 @@ News
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:16px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:16px;line-height: 1.2;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;line-height: 1.2;
   font-weight:normal;overflow:hidden;padding:1px 5px;word-break:normal;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
@@ -127,13 +127,15 @@ IEEE International Conference on Data Engineering (ICDE), 2024
 IEEE International Conference on Data Engineering (ICDE), 2024  
 **Xinyi Gao**, Wentao Zhang, Junliang Yu, Yingxia Shao, Quoc Viet Hung Nguyen, Bin Cui, Hongzhi Yin
 
+1. **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks** [[paper]](https://arxiv.org/abs/2302.14061)  
+ACM International Conference on Information and Knowledge Management (CIKM), 2023  
+**Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
+
+
 1. **BIM: Improving Graph Neural Networks with Balanced Influence Maximization** [[paper]](https://ieeexplore.ieee.org/document/10597992)  
 IEEE International Conference on Data Engineering (ICDE), 2024  
 Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui
 
-1. **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks** [[paper]](https://arxiv.org/abs/2302.14061)  
-ACM International Conference on Information and Knowledge Management (CIKM), 2023  
-**Xinyi Gao**, Wentao Zhang, Tong Chen, Junliang Yu, Hung Quoc Viet Nguyen, Hongzhi Yin
 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
