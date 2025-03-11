@@ -63,13 +63,26 @@ News
 </table>
 
 
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+
+
+Tutorial
+======
+
+Graph Condensation: Foundations, Methods and Prospects [[website]](https://xygaog.github.io/WWW25tut/)  
+The Web Conference Tutorials Track (WWW), 2025  
+Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang  
+
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+
+
 
 Selected Publications
 ======
 
-1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720v2) [📖](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+1. Graph Condensation: A Survey [[paper]](https://arxiv.org/abs/2401.11720) [[github]](https://github.com/XYGaoG/Graph-Condensation-Papers)  
+Transactions on Knowledge and Data Engineering (TKDE), 2025  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
 
