@@ -14,9 +14,14 @@ body {
 </style>
 
 
-Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. [Hongzhi Yin](https://sites.google.com/view/hongzhi-yin/home) and Dr. [Tong Chen](https://researchers.uq.edu.au/researcher/27868).  
+<p style="text-align: justify;">
+Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
+</p>
 
-Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. [Bin Cui](https://cuibinpku.github.io/) and Dr. [Wentao Zhang](https://zwt233.github.io/). I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. [Zhibin Pan](https://www.researchgate.net/profile/Zhibin-Pan-2), with graduation years of 2021 and 2018, respectively.  
+<p style="text-align: justify;">
+Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>, with graduation years of 2021 and 2018, respectively.
+</p>
+
 
 <p style="margin: 0;">Research Interests:</p>
 
