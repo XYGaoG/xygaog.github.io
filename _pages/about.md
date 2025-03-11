@@ -21,7 +21,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-<li style="margin: 0;"> Graph learning </li>
+<li style="margin: 0;"> Graph Neural Networks </li>
 <li style="margin: 0;"> Data-centric AI </li>
 <li > Efficient and generalized data mining </li>
 </ul>
