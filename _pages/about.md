@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-body {
-    font-size: 15 px;  /* 设置全局正文字体大小 */
-}
-</style>
-
 
 <p style="text-align: justify;">
 Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
@@ -41,12 +35,12 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 # News
 
-**14/02/2025**: We have released a survey paper on imbalanced data learning.  
-**22/01/2025**: We have two survey papers on graph condensation and GNN acceleration accepted at *TKDE'25*.  
-**22/01/2025**: We have two papers on graph condensation and rumor detection accepted at *WWW'25*.  
-**10/12/2024**: We have two papers on graph condensation and spatio-temporal prediction accepted at *AAAI'25*.  
-**06/12/2024**: Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.  
-**26/11/2024**: We have released a preprint paper on self-supervised graph condensation.  
+**14/02/2025**  We have released a survey paper on imbalanced data learning.  
+**22/01/2025**  We have two survey papers on graph condensation and GNN acceleration accepted at *TKDE'25*.  
+**22/01/2025**  We have two papers on graph condensation and rumor detection accepted at *WWW'25*.  
+**10/12/2024**  We have two papers on graph condensation and spatio-temporal prediction accepted at *AAAI'25*.  
+**06/12/2024**  Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.  
+**26/11/2024**  We have released a preprint paper on self-supervised graph condensation.  
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
