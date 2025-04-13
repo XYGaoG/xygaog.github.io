@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 body {
-    font-size: 16.5px;  /* 设置全局正文字体大小 */
+    font-size: 15 px;  /* 设置全局正文字体大小 */
 }
 </style>
 
@@ -36,73 +36,17 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 
 
-<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
-
-
-
-News
-======
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;line-height: 1.2;
-  font-weight:normal;overflow:hidden;padding:1px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-3m6e">14/02/2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have release a survey paper on imbalanced data learning.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">22/01/2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">22/01/2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">10/12/2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">06/12/2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">26/11/2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have released a preprint paper on self-supervised graph condensation.</td>
-  </tr>
-</tbody>
-</table>
-
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 # News
 
-- **14/02/2025**: We have released a survey paper on imbalanced data learning.
-- **22/01/2025**: We have two survey papers on graph condensation and GNN acceleration accepted at *TKDE'25*.
-- **22/01/2025**: We have two papers on graph condensation and rumor detection accepted at *WWW'25*.
-- **10/12/2024**: We have two papers on graph condensation and spatio-temporal prediction accepted at *AAAI'25*.
-- **06/12/2024**: Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.
-- **26/11/2024**: We have released a preprint paper on self-supervised graph condensation.
+**14/02/2025**: We have released a survey paper on imbalanced data learning.  
+**22/01/2025**: We have two survey papers on graph condensation and GNN acceleration accepted at *TKDE'25*.  
+**22/01/2025**: We have two papers on graph condensation and rumor detection accepted at *WWW'25*.  
+**10/12/2024**: We have two papers on graph condensation and spatio-temporal prediction accepted at *AAAI'25*.  
+**06/12/2024**: Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.  
+**26/11/2024**: We have released a preprint paper on self-supervised graph condensation.  
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
