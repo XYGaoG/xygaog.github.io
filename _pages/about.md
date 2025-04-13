@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+body {
+  font-size: 10 px; 
+}
 
 
 <p style="text-align: justify;">
@@ -35,12 +38,12 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 # News
 
-**14/02/2025**  We have released a survey paper on imbalanced data learning.  
-**22/01/2025**  Two survey papers on graph condensation and GNN acceleration are accepted at *TKDE'25*.  
-**22/01/2025**  Two papers on graph condensation and rumor detection are accepted at *WWW'25*.  
-**10/12/2024**  Two papers on graph condensation and spatio-temporal prediction are accepted at *AAAI'25*.  
-**06/12/2024**  Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.  
-**26/11/2024**  We have released a preprint paper on self-supervised graph condensation.  
+**14/02/2025** &nbsp;   We have released a survey paper on imbalanced data learning.  
+**22/01/2025** &nbsp;   Two survey papers on graph condensation and GNN acceleration are accepted at *TKDE'25*.  
+**22/01/2025** &nbsp;   Two papers on graph condensation and rumor detection are accepted at *WWW'25*.  
+**10/12/2024** &nbsp;   Two papers on graph condensation and spatio-temporal prediction are accepted at *AAAI'25*.  
+**06/12/2024** &nbsp;   Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.  
+**26/11/2024** &nbsp;   We have released a preprint paper on self-supervised graph condensation.  
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
