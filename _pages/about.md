@@ -95,6 +95,17 @@ News
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
+# News
+
+- **14/02/2025**: We have released a survey paper on imbalanced data learning.
+- **22/01/2025**: We have two survey papers on graph condensation and GNN acceleration accepted at *TKDE'25*.
+- **22/01/2025**: We have two papers on graph condensation and rumor detection accepted at *WWW'25*.
+- **10/12/2024**: We have two papers on graph condensation and spatio-temporal prediction accepted at *AAAI'25*.
+- **06/12/2024**: Our tutorial on graph condensation has been accepted for presentation at *WWW'25*.
+- **26/11/2024**: We have released a preprint paper on self-supervised graph condensation.
+
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+
 
 
 Tutorial
