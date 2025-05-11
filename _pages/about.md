@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-body {
-    font-size: 16.5px;  /* 设置全局正文字体大小 */
-}
-</style>
-
-
 <p style="text-align: justify;">
 Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
 </p>
@@ -36,8 +29,10 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 
 
+
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
+# News
 
 
 News
