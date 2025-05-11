@@ -32,9 +32,6 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
-# News
-
-
 News
 ======
 
@@ -46,10 +43,11 @@ News
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">14/02/2025</td>
+    <td class="tg-3m6e">11/05/2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
@@ -121,9 +119,9 @@ Transactions on Knowledge and Data Engineering (TKDE), 2025
 ACM Web Conference (WWW), 2025  
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
-1. **RobGC: Towards Robust Graph Condensation** [[paper]](https://arxiv.org/abs/2406.13200)  
-Transactions on Knowledge and Data Engineering (TKDE), 2025 
-**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
+1. **RobGC: Towards Robust Graph Condensation** [[paper]](https://arxiv.org/abs/2406.13200)   
+Transactions on Knowledge and Data Engineering (TKDE), 2025   
+**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui  
 
 1. **Graph Condensation for Open-World Graph Learning** [[paper]](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
