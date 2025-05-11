@@ -57,6 +57,12 @@ News
     <td class="tg-3m6e">14/02/2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">14/02/2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
     <td class="tg-oe15">We have release a survey paper on imbalanced data learning.</td>
   </tr>
   <tr>
@@ -115,10 +121,14 @@ Selected Publications
 Transactions on Knowledge and Data Engineering (TKDE), 2025  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
+
 1. **Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition** [[paper]](https://arxiv.org/abs/2405.13707)  
 ACM Web Conference (WWW), 2025  
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
 
+1. **RobGC: Towards Robust Graph Condensation** [[paper]](https://arxiv.org/abs/2406.13200)  
+Transactions on Knowledge and Data Engineering (TKDE), 2025 
+**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
 
 1. **Graph Condensation for Open-World Graph Learning** [[paper]](https://arxiv.org/abs/2405.17003)  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2024  
@@ -152,8 +162,6 @@ Preprint
 1. **Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning** [[paper]](https://arxiv.org/abs/2411.17063)  
 **Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin
 
-1. **RobGC: Towards Robust Graph Condensation** [[paper]](https://arxiv.org/abs/2406.13200)  
-**Xinyi Gao**, Hongzhi Yin, Tong Chen, Guanhua Ye, Wentao Zhang, Bin Cui
 
 1. **A Comprehensive Survey on Imbalanced Data Learning** [[paper]](https://arxiv.org/abs/2502.08960)  
 **Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang
