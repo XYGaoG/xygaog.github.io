@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am currently in the fourth year of my Ph.D. studies at the University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
+Hi there! I am a final-year Ph.D. candidate at the University of Queensland, supervised by Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
 </p>
 
 <p style="text-align: justify;">
@@ -19,9 +19,9 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-<li style="margin: 0;"> Graph Neural Networks </li>
-<li style="margin: 0;"> Data-centric AI </li>
-<li > Efficient and generalized data mining </li>
+    <li style="margin: 0;">Data-centric AI, Generative AI</li>
+    <li style="margin: 0;">Graph Neural Networks, Network Analysis</li>
+    <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
 
   
@@ -35,13 +35,13 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 News
 ======
 
-11/05/2025 &emsp;&emsp; Our paper on robust graph condensation has been accepted at TKDE'25.  
-05/04/2025 &emsp;&emsp; Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.  
-14/02/2025 &emsp;&emsp; We released a survey paper on imbalanced data learning.  
-22/01/2025 &emsp;&emsp; Two survey papers on graph condensation and GNN acceleration were accepted at TKDE'25.  
-22/01/2025 &emsp;&emsp; Two papers on graph condensation and rumor detection were accepted at WWW'25.  
-10/12/2024 &emsp;&emsp; Two papers on graph condensation and spatio-temporal prediction were accepted at AAAI'25.  
-06/12/2024 &emsp;&emsp; Our tutorial on graph condensation was accepted for presentation at WWW'25.  
+11/05/2025 &emsp; Our paper on robust graph condensation has been accepted at TKDE'25.  
+05/04/2025 &emsp; Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.  
+14/02/2025 &emsp; We released a survey paper on imbalanced data learning.  
+22/01/2025 &emsp; Two survey papers on graph condensation and GNN acceleration were accepted at TKDE'25.  
+22/01/2025 &emsp; Two papers on graph condensation and rumor detection were accepted at WWW'25.  
+10/12/2024 &emsp; Two papers on graph condensation and spatio-temporal prediction were accepted at AAAI'25.  
+06/12/2024 &emsp; Our tutorial on graph condensation was accepted for presentation at WWW'25.  
 
 
 
@@ -157,7 +157,7 @@ Selected Publications
 1. [BIM: Improving Graph Neural Networks with Balanced Influence Maximization](https://ieeexplore.ieee.org/document/10597992)  
 *IEEE International Conference on Data Engineering (ICDE), 2024*  
 Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong Shan, Hongzhi Yin, Bin Cui  
-"""
+
 
 
 
@@ -231,14 +231,11 @@ Zongwei Wang, Min Gao, Junliang Yu, **Xinyi Gao**, Quoc Viet Hung Nguyen, Shazia
 
 Honors and Awards
 ======
-* China National Scholarship, the Ministry of Education of China 
+* China National Scholarship, 
 (Rank 1/113 in the School of Information and Communications Engineering, Xi'an Jiaotong University)
 
 * China National Silver Award, ["Challenge Cup" National Undergraduate Competition](https://www.tiaozhanbei.net/)
 (National A Class Competition)
-
-* Provincial Gold Award, "Challenge Cup" Shaanxi Provincial Undergraduate Competition (Provincial A Class Competition)
-
 
 
 
