@@ -35,17 +35,7 @@ Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking
 News
 ======
 
-11/05/2025 &emsp; Our paper on robust graph condensation has been accepted at TKDE'25.  
-05/04/2025 &emsp; Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.  
-14/02/2025 &emsp; We released a survey paper on imbalanced data learning.  
-22/01/2025 &emsp; Two survey papers on graph condensation and GNN acceleration were accepted at TKDE'25.  
-22/01/2025 &emsp; Two papers on graph condensation and rumor detection were accepted at WWW'25.  
-10/12/2024 &emsp; Two papers on graph condensation and spatio-temporal prediction were accepted at AAAI'25.  
-06/12/2024 &emsp; Our tutorial on graph condensation was accepted for presentation at WWW'25.  
-
-
-
-<!-- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;line-height: 1.2;
@@ -66,7 +56,7 @@ News
     <td class="tg-3m6e">05/04/2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on LLM Agents for recommendation has been accepted at SIGIR'25.</td>
+    <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
   </tr>
   <tr>
     <td class="tg-3m6e">14/02/2025</td>
@@ -98,14 +88,9 @@ News
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
   </tr>
-  <tr>
-    <td class="tg-3m6e">26/11/2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have released a preprint paper on self-supervised graph condensation.</td>
-  </tr>
 </tbody>
-</table> -->
+</table>
+
 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
