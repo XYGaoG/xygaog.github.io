@@ -47,49 +47,49 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">May 11, '25</td>
+    <td class="tg-3m6e">May 11, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">May 11, '25</td>
+    <td class="tg-3m6e">May 11, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Apr. 5, '25</td>
+    <td class="tg-3m6e">Apr. 5, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Feb. 14, '25</td>
+    <td class="tg-3m6e">Feb. 14, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have released a survey paper on imbalanced data learning.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Jan. 22, '25</td>
+    <td class="tg-3m6e">Jan. 22, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Jan. 22, '25</td>
+    <td class="tg-3m6e">Jan. 22, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Dec. 10, '24</td>
+    <td class="tg-3m6e">Dec. 10, 2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Dec. 6, '24</td>
+    <td class="tg-3m6e">Dec. 6, 2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
