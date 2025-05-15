@@ -59,7 +59,7 @@ News
     <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Apr. 5, 2025</td>
+    <td class="tg-3m6e">Apr. 05, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
@@ -89,7 +89,7 @@ News
     <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">Dec. 6, 2024</td>
+    <td class="tg-3m6e">Dec. 06, 2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
