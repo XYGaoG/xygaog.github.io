@@ -47,7 +47,7 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">May 11, 2025</td>
+    <td class="tg-3m6e">May 15, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
