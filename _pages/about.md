@@ -218,7 +218,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2025*  
 Zongwei Wang, Min Gao, Junliang Yu, **Xinyi Gao**, Quoc Viet Hung Nguyen, Shazia Sadiq, Hongzhi Yin  
 
-1. Progressive Stacking for Scalable Graph Condensation    
+1. [Progressive Stacking for Scalable Graph Condensation](https://scholar.google.com/citations?user=K8oe7sMAAAAJ)   
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*     
 Yibing Bai, Min Gao, Zongwei Wang, **Xinyi Gao**, Wentao Li   
 
