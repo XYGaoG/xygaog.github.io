@@ -50,6 +50,12 @@ News
     <td class="tg-3m6e">11/05/2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">11/05/2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
   </tr>
   <tr>
@@ -115,6 +121,10 @@ Selected Publications
 *Transactions on Knowledge and Data Engineering (TKDE), 2025*  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
 
+1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*   
+**Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
+
 1. [Rethinking and Accelerating Graph Condensation: A Training-Free Approach with Class Partition](https://arxiv.org/abs/2405.13707)  
 *ACM Web Conference (WWW), 2025*  
 **Xinyi Gao**, Guanhua Ye, Tong Chen, Wentao Zhang, Junliang Yu, Hongzhi Yin  
@@ -151,8 +161,6 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 Preprint
 ======
 
-1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)  
-**Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
 
 1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
 **Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang  
@@ -209,6 +217,9 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2025*  
 Zongwei Wang, Min Gao, Junliang Yu, **Xinyi Gao**, Quoc Viet Hung Nguyen, Shazia Sadiq, Hongzhi Yin  
 
+1. Progressive Stacking for Scalable Graph Condensation    
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*     
+Yibing Bai, Min Gao, Zongwei Wang, **Xinyi Gao**, Wentao Li   
 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
