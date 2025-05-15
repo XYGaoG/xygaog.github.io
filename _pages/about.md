@@ -47,49 +47,49 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">11/05/2025</td>
+    <td class="tg-3m6e">May 15, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">11/05/2025</td>
+    <td class="tg-3m6e">May 11, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">05/04/2025</td>
+    <td class="tg-3m6e">April 5, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">14/02/2025</td>
+    <td class="tg-3m6e">February 14, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have release a survey paper on imbalanced data learning.</td>
+    <td class="tg-oe15">We have released a survey paper on imbalanced data learning.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">22/01/2025</td>
+    <td class="tg-3m6e">January 22, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">22/01/2025</td>
+    <td class="tg-3m6e">January 22, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">10/12/2024</td>
+    <td class="tg-3m6e">December 10, 2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
   </tr>
   <tr>
-    <td class="tg-3m6e">06/12/2024</td>
+    <td class="tg-3m6e">December 6, 2024</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
