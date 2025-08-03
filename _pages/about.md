@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am currently a Postdoctoral Researcher in Computer Science at The University of Queensland (UQ), specializing in **Efficient AI Computing, Generative Models, and Data Mining** for large-scale data analysis. My research focuses on developing **Deep Data Compression** techniques that generate compact, high-fidelity data, enabling faster model development, real-time inference, and streamlined data management in resource-constrained AI systems.
+Hi there! I am currently a Postdoctoral Researcher in Computer Science at The University of Queensland (UQ), specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Compression<b> techniques that generate compact, high-fidelity data, enabling faster model development, real-time inference, and streamlined data management in resource-constrained AI systems.
 </p>
 
 <p style="text-align: justify;">
@@ -48,7 +48,7 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">May 15, 2025</td>
+    <td class="tg-3m6e">Jul 13, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
