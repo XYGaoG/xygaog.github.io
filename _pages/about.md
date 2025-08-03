@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am a final-year Ph.D. candidate at the University of Queensland, supervised by Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.  
+Hi there! I am currently a Postdoctoral Researcher in Computer Science at The University of Queensland (UQ), specializing in \textbf{Efficient AI Computing, Generative Models, and Data Mining} for large-scale data analysis. My research focuses on developing \textbf{Deep Data Compression} techniques that generate compact, high-fidelity data, enabling faster model development, real-time inference, and streamlined data management in resource-constrained AI systems.
 </p>
 
 <p style="text-align: justify;">
-Previously, from Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>, with graduation years of 2021 and 2018, respectively.
+Previously, I completed my Ph.D. at UQ under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.
+From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>, with graduation years of 2021 and 2018, respectively.
 </p>
 
 
@@ -46,6 +47,12 @@ News
 
 <table class="tg">
 <tbody>
+  <tr>
+    <td class="tg-3m6e">May 15, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
+  </tr>
   <tr>
     <td class="tg-3m6e">May 15, 2025</td>
     <td class="tg-oe15"></td>
@@ -193,6 +200,10 @@ Yunhui Liu, **Xinyi Gao**, Tieke He, Tao Zheng, Jianhua Zhao, Hongzhi Yin
 1. [Challenging Low Homophily in Social Recommendation](https://dl.acm.org/doi/abs/10.1145/3589334.3645460)  
 *ACM Web Conference (WWW), 2024*  
 Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin  
+
+1. [Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference](https://arxiv.org/abs/2411.14035)  
+*Transactions on Knowledge and Data Engineering (TKDE), 2025*  
+Yunhui Liu, **Xinyi Gao**, Tieke He, Jianhua Zhao, Hongzhi Yin  
 
 1. [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250)  
 *IEEE International Conference on Data Engineering (ICDE), 2025*  
