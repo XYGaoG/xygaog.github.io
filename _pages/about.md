@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am currently a Postdoctoral Researcher in Computer Science at The University of Queensland (UQ), specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Compression</b> techniques that generate compact, high-fidelity data, enabling faster model development, real-time inference, and streamlined data management in resource-constrained AI systems.
+Hi there! I am currently pursuing my Ph.D. at The University of Queensland, supervised by Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. My research specializes in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. I focus on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
 </p>
 
 <p style="text-align: justify;">
-Previously, I completed my Ph.D. at UQ under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>.
 From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>, with graduation years of 2021 and 2018, respectively.
 </p>
 
@@ -20,7 +19,7 @@ From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University,
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-    <li style="margin: 0;">Data-centric AI, Generative AI</li>
+    <li style="margin: 0;">Data-centric AI, Generative Model</li>
     <li style="margin: 0;">Graph Neural Networks, Network Analysis</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
@@ -48,7 +47,7 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-3m6e">Jul 13, 2025</td>
+    <td class="tg-3m6e">Jul. 13, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
