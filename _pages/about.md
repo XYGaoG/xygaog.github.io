@@ -47,6 +47,12 @@ News
 <table class="tg">
 <tbody>
   <tr>
+    <td class="tg-3m6e">Aug. 05, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have one paper on spatio-temporal prediction accepted at CIKM'25.</td>
+  </tr>
+  <tr>
     <td class="tg-3m6e">Jul. 13, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
@@ -203,6 +209,10 @@ Wei Jiang, **Xinyi Gao**, Guandong Xu, Tong Chen, Hongzhi Yin
 1. [Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference](https://arxiv.org/abs/2411.14035)  
 *Transactions on Knowledge and Data Engineering (TKDE), 2025*  
 Yunhui Liu, **Xinyi Gao**, Tieke He, Jianhua Zhao, Hongzhi Yin  
+
+1. [HGAurban: Heterogeneous Graph Autoencoding for Urban Spatial-Temporal Learning](https://arxiv.org/abs/2410.10915)  
+*ACM International Conference on Information and Knowledge Management (CIKM), 2025*  
+Qianru Zhang, **Xinyi Gao**, Haixin Wang, Dong Huang, Siu-Ming Yiu, Hongzhi Yin  
 
 1. [Training-free Heterogeneous Graph Condensation via Data Selection](https://arxiv.org/abs/2412.16250)  
 *IEEE International Conference on Data Engineering (ICDE), 2025*  
