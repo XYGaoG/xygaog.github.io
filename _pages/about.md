@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am currently pursuing my Ph.D. at The University of Queensland, supervised by Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. My research specializes in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. I focus on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
+Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
 </p>
 
 <p style="text-align: justify;">
-From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. I completed my M.S. and B.S. degrees in Information and Communications Engineering at Xi'an Jiaotong University, supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>, with graduation years of 2021 and 2018, respectively.
+I completed my Ph.D. at The University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
 </p>
+
+
 
 
 <p style="margin: 0;">Research Interests:</p>
@@ -46,6 +48,12 @@ News
 
 <table class="tg">
 <tbody>
+  <tr>
+    <td class="tg-3m6e">Sep. 08, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our survey on imbalanced data learning is accepted at FCS'25.</td>
+  </tr>
   <tr>
     <td class="tg-3m6e">Aug. 05, 2025</td>
     <td class="tg-oe15"></td>
@@ -134,6 +142,11 @@ Selected Publications
 *Transactions on Knowledge and Data Engineering (TKDE), 2025*  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
 
+1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
+*Frontiers of Computer Science (FCS), 2025*   
+**Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang  
+
+
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*   
 **Xinyi Gao**, Yayong Li, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
@@ -171,7 +184,7 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
-Preprint
+<!-- Preprint
 ======
 
 
@@ -179,7 +192,7 @@ Preprint
 **Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang  
 
 
-<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div> -->
 
 
 
