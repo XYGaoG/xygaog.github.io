@@ -29,7 +29,7 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-    <li style="margin: 0;">Generative Model, Data-centric Method</li>
+    <li style="margin: 0;">Data-centric ML, Generative Model</li>
     <li style="margin: 0;">Graph Neural Networks, Network Analysis</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
