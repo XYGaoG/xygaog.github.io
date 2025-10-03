@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;"> -->
 <!-- Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
 </p>
 
