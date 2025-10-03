@@ -8,11 +8,19 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
+<!-- Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
+</p>
+
+<!-- <p style="text-align: justify;">
+I completed my Ph.D. at The University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
+</p> --> 
+
+<p style="text-align: justify;">
+Hi there! I recently completed my Ph.D. in Computer Science at The University of Queensland, specializing in <b>Efficient Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained systems.
 </p>
 
 <p style="text-align: justify;">
-I completed my Ph.D. at The University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
+I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I obtained my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018) from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
 </p>
 
 
@@ -21,7 +29,7 @@ I completed my Ph.D. at The University of Queensland under the supervision of Pr
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-    <li style="margin: 0;">Data-centric AI, Generative Model</li>
+    <li style="margin: 0;">Generative Model, Data-centric Method</li>
     <li style="margin: 0;">Graph Neural Networks, Network Analysis</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
