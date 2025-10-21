@@ -98,7 +98,7 @@ News
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
   </tr>
-  <tr>
+  <!--   <tr>
     <td class="tg-3m6e">Feb. 14, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
@@ -127,7 +127,7 @@ News
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
-  </tr>
+  </tr> -->
 </tbody>
 </table>
 
