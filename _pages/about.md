@@ -56,12 +56,12 @@ News
 
 <table class="tg">
 <tbody>
-  <!-- <tr>
+  <tr>
     <td class="tg-3m6e">Oct. 08, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
-    <td class="tg-oe15">We released a paper on relational database.</td>
-  </tr> -->
+    <td class="tg-oe15">We released a new paper on relational database.</td>
+  </tr>
   <tr>
     <td class="tg-3m6e">Sep. 08, 2025</td>
     <td class="tg-oe15"></td>
