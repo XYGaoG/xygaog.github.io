@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <p style="text-align: justify;"> -->
-<!-- Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient AI Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained AI systems.
+<p style="text-align: justify;">
+Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained ML systems.
 </p>
 
-<!-- <p style="text-align: justify;">
-I completed my Ph.D. at The University of Queensland under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
-</p> --> 
-
+<p style="text-align: justify;">
+I completed my Ph.D. at The University of Queensland in Aug. 2025, under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
+</p> 
+<!-- 
 <p style="text-align: justify;">
 Hi there! I recently completed my Ph.D. in Computer Science at The University of Queensland, specializing in <b>Efficient Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained systems.
 </p>
@@ -23,7 +23,7 @@ Hi there! I recently completed my Ph.D. in Computer Science at The University of
 I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I obtained my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018) from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
 </p>
 
-
+ -->
 
 
 <p style="margin: 0;">Research Interests:</p>
@@ -56,6 +56,12 @@ News
 
 <table class="tg">
 <tbody>
+  <!-- <tr>
+    <td class="tg-3m6e">Oct. 08, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We released a paper on relational database.</td>
+  </tr> -->
   <tr>
     <td class="tg-3m6e">Sep. 08, 2025</td>
     <td class="tg-oe15"></td>
@@ -142,18 +148,26 @@ Hongzhi Yin, **Xinyi Gao**, Junliang Yu, Ruihong Qiu, Tong Chen, Quoc Viet Hung 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 
-
-Selected Publications
+Survey
 ======
-
 1. [Graph Condensation: A Survey](https://arxiv.org/abs/2401.11720)  
 *Transactions on Knowledge and Data Engineering (TKDE), 2025*  
 **Xinyi Gao**, Junliang Yu, Tong Chen, Guanhua Ye, Wentao Zhang, Hongzhi Yin  
 
 1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
 *Frontiers of Computer Science (FCS), 2025*   
-**Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang  
+**Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Chong Chen, Conghui He, Hongzhi Yin, Wentao Zhang  
 
+1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
+*Transactions on Knowledge and Data Engineering (TKDE), 2025*  
+Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
+
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+
+
+
+Selected Publications
+======
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*   
@@ -192,15 +206,12 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
-<!-- Preprint
+Preprint
 ======
+1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)    
+**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
 
-
-1. [A Comprehensive Survey on Imbalanced Data Learning](https://arxiv.org/abs/2502.08960)  
-**Xinyi Gao**, Dongting Xie, Yihang Zhang, Zhengren Wang, Conghui He, Hongzhi Yin, Wentao Zhang  
-
-
-<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div> -->
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 
 
@@ -251,9 +262,6 @@ Qianru Zhang, **Xinyi Gao**, Haixin Wang, Siu Ming Yiu, Hongzhi Yin
 *ACM Web Conference (WWW), 2025*  
 Wei Jiang, Tong Chen, **Xinyi Gao**, Wentao Zhang, Lizhen Cui, Hongzhi Yin  
 
-1. [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)  
-*Transactions on Knowledge and Data Engineering (TKDE), 2025*  
-Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui  
 
 1. [ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems](https://arxiv.org/abs/2409.11690v3)  
 *ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2025*  
