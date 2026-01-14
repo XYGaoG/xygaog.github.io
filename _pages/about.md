@@ -41,106 +41,29 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
-<!-- 
+
 News
 ======
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;overflow:hidden;padding:1px 5px;line-height: 1.7;word-break:normal;white-space: nowrap;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-size:16.5px;line-height: 1.2;
-  font-weight:normal;overflow:hidden;padding:1px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
+
+<style>
+/* 去掉 News 表格本身的边框 */
+.tg,
+.tg tbody,
+.tg tr,
+.tg td {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background: transparent;
+}
+
+/* 防止主题给 table 外层加 box */
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
 </style>
-
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-3m6e">Jan. 14, 2026</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Oct. 08, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We released a new paper on relational database.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Sep. 08, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our survey on imbalanced data learning is accepted at FCS'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Aug. 05, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have one paper on spatio-temporal prediction accepted at CIKM'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Jul. 13, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">May 15, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">May 11, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Apr. 05, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
-  </tr>
-  <!--   <tr>
-    <td class="tg-3m6e">Feb. 14, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have released a survey paper on imbalanced data learning.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Jan. 22, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two survey papers on graph condensation and GNN acceleration accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Jan. 22, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation and rumor detection accepted at WWW'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Dec. 10, 2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation and spatio-temporal prediction accepted at AAAI'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Dec. 06, 2024</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our tutorial on graph condensation has been accepted for presentation at WWW'25.</td>
-  </tr> -->
-</tbody>
-</table>
-
- -->
-
-
-<h2>News</h2>
 
 <style type="text/css">
 .tg{
