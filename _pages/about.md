@@ -57,6 +57,12 @@ News
 <table class="tg">
 <tbody>
   <tr>
+    <td class="tg-3m6e">Jan. 14, 2026</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.</td>
+  </tr>
+  <tr>
     <td class="tg-3m6e">Oct. 08, 2025</td>
     <td class="tg-oe15"></td>
     <td class="tg-oe15"></td>
@@ -168,6 +174,9 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 Selected Publications
 ======
+1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
+*ACM Web Conference (WWW), 2026*
+**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*   
@@ -204,12 +213,12 @@ Wentao Zhang, **Xinyi Gao** **(co-first author)**, Ling Yang, Meng Cao, Jiulong 
 
 
 
-<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+<!-- <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
 Preprint
 ======
 1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)    
-**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
+**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin     -->
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
