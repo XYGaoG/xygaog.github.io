@@ -41,7 +41,7 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
 
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
-
+<!-- 
 News
 ======
 
@@ -137,8 +137,96 @@ News
 </tbody>
 </table>
 
+ -->
 
 
+News
+======
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-size:16.5px;
+  overflow:hidden;
+  padding:1px 5px;
+  line-height:1.7;
+  word-break:break-word;      /* 自动断词 */
+  white-space:normal;         /* 允许自动换行 */
+  overflow-wrap:anywhere;     /* 防止超长英文溢出（可选但推荐） */
+}
+.tg th{
+  border-color:black;
+  border-style:solid;
+  border-width:1px;
+  font-size:16.5px;
+  line-height:1.2;
+  font-weight:normal;
+  overflow:hidden;
+  padding:1px 5px;
+  word-break:break-word;
+  white-space:normal;
+}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-3m6e">Jan. 14, 2026</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">
+      Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">Oct. 08, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We released a new paper on relational database.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">Sep. 08, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our survey on imbalanced data learning is accepted at FCS'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">Aug. 05, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have one paper on spatio-temporal prediction accepted at CIKM'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">Jul. 13, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">May 15, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">May 11, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
+  </tr>
+  <tr>
+    <td class="tg-3m6e">Apr. 05, 2025</td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15"></td>
+    <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
+  </tr>
+</tbody>
+</table>
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
@@ -175,7 +263,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 Selected Publications
 ======
 1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
-*ACM Web Conference (WWW), 2026*
+*ACM Web Conference (WWW), 2026*   
 **Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
