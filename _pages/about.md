@@ -140,93 +140,88 @@ News
  -->
 
 
-News
-======
+<h2>News</h2>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg{
+  border-collapse:collapse;
+  border-spacing:0;
+  width:100%;
+  table-layout:fixed;          /* 关键：固定表格布局，换行更可控 */
+}
 .tg td{
-  border-color:black;
-  border-style:solid;
-  border-width:1px;
   font-size:16.5px;
-  overflow:hidden;
-  padding:1px 5px;
+  padding:1px 10px;
   line-height:1.7;
-  word-break:break-word;      /* 自动断词 */
-  white-space:normal;         /* 允许自动换行 */
-  overflow-wrap:anywhere;     /* 防止超长英文溢出（可选但推荐） */
+  vertical-align:top;
+  border:none;                 /* 你原来是白色边框，这里直接去掉 */
 }
-.tg th{
-  border-color:black;
-  border-style:solid;
-  border-width:1px;
-  font-size:16.5px;
-  line-height:1.2;
-  font-weight:normal;
-  overflow:hidden;
-  padding:1px 5px;
-  word-break:break-word;
+
+/* 日期列：固定宽度 + 不换行 */
+.tg .tg-date{
+  width:160px;                 /* 可按你页面调整：140/160/180 */
+  white-space:nowrap;
+}
+
+/* 内容列：允许自动换行 + 强制断词避免溢出 */
+.tg .tg-msg{
   white-space:normal;
+  overflow-wrap:anywhere;
+  word-break:break-word;
 }
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-3m6e{background-color:#ffffff;border-color:#ffffff;font-weight:normal;text-align:left;vertical-align:top}
 </style>
 
 <table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-3m6e">Jan. 14, 2026</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">
-      Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.
-    </td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Oct. 08, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We released a new paper on relational database.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Sep. 08, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our survey on imbalanced data learning is accepted at FCS'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Aug. 05, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have one paper on spatio-temporal prediction accepted at CIKM'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Jul. 13, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">May 15, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">We have two papers on graph condensation accepted at KDD'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">May 11, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
-  </tr>
-  <tr>
-    <td class="tg-3m6e">Apr. 05, 2025</td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15"></td>
-    <td class="tg-oe15">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
-  </tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td class="tg-date">Jan. 14, 2026</td>
+      <td class="tg-msg">Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">Oct. 08, 2025</td>
+      <td class="tg-msg">We released a new paper on relational database.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">Sep. 08, 2025</td>
+      <td class="tg-msg">Our survey on imbalanced data learning is accepted at FCS'25.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">Aug. 05, 2025</td>
+      <td class="tg-msg">We have one paper on spatio-temporal prediction accepted at CIKM'25.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">Jul. 13, 2025</td>
+      <td class="tg-msg">We have one paper on heterogeneous graph distillation accepted at TKDE'25.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">May 15, 2025</td>
+      <td class="tg-msg">We have two papers on graph condensation accepted at KDD'25.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">May 11, 2025</td>
+      <td class="tg-msg">Our paper on robust graph condensation has been accepted at TKDE'25.</td>
+    </tr>
+    <tr>
+      <td class="tg-date">Apr. 05, 2025</td>
+      <td class="tg-msg">Our paper on LLM Agents for Recommendation has been accepted at SIGIR'25.</td>
+    </tr>
+  </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
 
