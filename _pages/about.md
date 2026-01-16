@@ -97,6 +97,10 @@ News
 <table class="tg">
   <tbody>
     <tr>
+      <td class="tg-date">Jan. 16, 2026</td>
+      <td class="tg-msg">Our paper on efficient graph condensation is accepted at TKDE'26.</td>
+    </tr>
+    <tr>
       <td class="tg-date">Jan. 14, 2026</td>
       <td class="tg-msg">Our paper on relational database distillation has been accepted at WWW’26—the first work to condense relational DB.</td>
     </tr>
@@ -180,6 +184,10 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 Selected Publications
 ======
+1. DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation  
+*Transactions on Knowledge and Data Engineering (TKDE), 2026*  
+**Xinyi Gao**, Wenjie Li, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin    
+
 1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
 *ACM Web Conference (WWW), 2026*   
 **Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
