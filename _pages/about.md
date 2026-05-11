@@ -35,7 +35,7 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-    <li style="margin: 0;">Data-centric ML, Generative AI</li>
+    <li style="margin: 0;">Dataset Distillation, Generative AI</li>
     <li style="margin: 0;">Large Language Model, Graph Neural Networks</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
@@ -195,7 +195,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 Selected Publications
 ======
 
-1. GRAFT: Graph-Tokenized LLMs for Tool Planning         
+1. [GRAFT: Graph-Tokenized LLMs for Tool Planning]()           
 **Xinyi Gao**, Xinyu Ren, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin   
 
 
