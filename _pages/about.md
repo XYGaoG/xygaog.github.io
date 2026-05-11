@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;">
 Hi there! I am currently a Postdoctoral Researcher at The University of Queensland, specializing in <b>Efficient Computing, Generative Models, and Data Mining</b> for large-scale data analysis. My research focuses on developing <b>Deep Data Generation</b> techniques that produce compact, high-fidelity, and privacy-preserving data, enabling faster model development, real-time inference, and efficient data management in resource-constrained ML systems.
+</p> -->
+
+<p style="text-align: justify;">
+Hi there! I am currently a Postdoctoral Researcher at The University of Queensland. My research centers on <b>Structured Data for Agentic AI</b> (e.g., graph data, tabular data, and relational databases), with two main directions: <b>Deep Data Generation for Compact Structured Data</b> and <b>Reliable Reasoning and Planning for LLM Agents</b>.
+Specifically, I develop deep data generation methods that distill large-scale raw data into compact, high-fidelity structured representations, enabling faster model iteration, real-time inference, and efficient data operations in resource-constrained settings, and I design structured-data-driven LLM agent pipelines to improve multi-step reasoning, planning reliability, and overall task performance.
 </p>
+
 
 <p style="text-align: justify;">
 I completed my Ph.D. at The University of Queensland in Aug. 2025, under the supervision of Prof. <a href="https://sites.google.com/view/hongzhi-yin/home">Hongzhi Yin</a> and Dr. <a href="https://researchers.uq.edu.au/researcher/27868">Tong Chen</a>. From Jul. 2021 to Dec. 2021, I served as a research intern at Peking University, working under the guidance of Prof. <a href="https://cuibinpku.github.io/">Bin Cui</a> and Dr. <a href="https://zwt233.github.io/">Wentao Zhang</a>. Prior to that, I earned my M.Eng. in Information and Communications Engineering (2021) and B.Eng. in Information Engineering (2018), both from Xi'an Jiaotong University, where I was supervised by Prof. <a href="https://www.researchgate.net/profile/Zhibin-Pan-2">Zhibin Pan</a>.
@@ -29,8 +35,8 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
 <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
-    <li style="margin: 0;">Data-centric ML, Generative Model</li>
-    <li style="margin: 0;">Graph Neural Networks, Network Analysis</li>
+    <li style="margin: 0;">Data-centric ML, Generative AI</li>
+    <li style="margin: 0;">Large Language Model, Graph Neural Networks</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
 </ul>
 
@@ -96,6 +102,10 @@ News
 
 <table class="tg">
   <tbody>
+    <tr>
+      <td class="tg-date">May 08, 2026</td>
+      <td class="tg-msg">We released a new paper on LLM agent-based task planning and structured tool calling.</td>
+    </tr>
     <tr>
       <td class="tg-date">Jan. 16, 2026</td>
       <td class="tg-msg">Our paper on efficient graph condensation is accepted at TKDE'26.</td>
@@ -184,6 +194,13 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 
 Selected Publications
 ======
+
+1. GRAFT: Graph-Tokenized LLMs for Tool Planning         
+**Xinyi Gao**, Xinyu Ren, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin   
+
+
+
+
 1. [DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation](https://www.computer.org/csdl/journal/tk/5555/01/11359095/2dr2nnhXAhW)    
 *Transactions on Knowledge and Data Engineering (TKDE), 2026*  
 **Xinyi Gao**, Wenjie Li, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin    
