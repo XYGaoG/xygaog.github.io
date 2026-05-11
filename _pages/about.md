@@ -32,16 +32,30 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
  -->
 
 
-<p style="margin: 0;">Research Interests:</p>
+<!-- <p style="margin: 0;">Research Interests:</p>
 
 <ul style="margin: 0;">
     <li style="margin: 0;">Dataset Distillation, Generative AI</li>
     <li style="margin: 0;">Large Language Model, Graph Neural Networks</li>
     <li style="margin: 0;">Efficient and Generalized Data Mining</li>
-</ul>
+</ul> -->
 
   
 <!-- **Email**: xinyi.gao AT uq.edu.au  -->
+
+Research Interests
+======
+
+- **Reliable Reasoning and Planning for LLM Agents**  
+  Developing **graph-enhanced LLM agent** frameworks that incorporate structured context and constraint-aware reasoning, with the goal of improving reliability in multi-step planning and enhancing downstream task effectiveness.
+
+- **Structured Data for Agentic AI**  
+  Advancing **deep data generation** methodologies for structured data (e.g., graph data, tabular data, and relational databases) that distill large-scale raw data into compact, high-fidelity representations, enabling efficient model development and real-time inference.
+
+- **Applied AI Systems**  
+  Conducting research on reliable **Recommender Systems**, **Spatiotemporal Prediction**, and **Rumor Detection** within social computing, with an emphasis on robust predictive modeling for real-world deployment.
+
+
 
 
 
