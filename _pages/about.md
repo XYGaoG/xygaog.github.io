@@ -198,16 +198,15 @@ Selected Publications
 1. [GRAFT: Graph-Tokenized LLMs for Tool Planning]()           
 **Xinyi Gao**, Xinyu Ren, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin   
 
-
+1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
+*ACM Web Conference (WWW), 2026*   
+**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
 
 
 1. [DeepCGC: Unveiling the Deep Clustering Mechanism of Fast Graph Condensation](https://www.computer.org/csdl/journal/tk/5555/01/11359095/2dr2nnhXAhW)    
 *Transactions on Knowledge and Data Engineering (TKDE), 2026*  
 **Xinyi Gao**, Wenjie Li, Tong Chen, Xiangyu Zhao, Quoc Viet Hung Nguyen, Hongzhi Yin    
 
-1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
-*ACM Web Conference (WWW), 2026*   
-**Xinyi Gao**, Jingxi Zhang, Lijian Chen, Tong Chen, Lizhen Cui, Hongzhi Yin    
 
 1. [Contrastive Graph Condensation: Advancing Data Versatility through Self-Supervised Learning](https://arxiv.org/abs/2411.17063)    
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2025*   
