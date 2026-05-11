@@ -43,6 +43,10 @@ I earned my Ph.D. under the supervision of Prof. <a href="https://sites.google.c
   
 <!-- **Email**: xinyi.gao AT uq.edu.au  -->
 
+
+<div style="margin-top: 45px; margin-bottom: 25px; border-top: 1px solid #f0f0f0;"></div>
+
+
 Research Interests
 ======
 
