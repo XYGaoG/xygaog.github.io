@@ -213,7 +213,7 @@ Lu Ma, Zeang Sheng, Xunkai Li, **Xinyi Gao**, Zhezheng Hao, Ling Yang, Wentao Zh
 Selected Publications
 ======
 
-1. [GRAFT: Graph-Tokenized LLMs for Tool Planning]()           
+1. [GRAFT: Graph-Tokenized LLMs for Tool Planning](https://arxiv.org/abs/2605.11706)             
 **Xinyi Gao**, Xinyu Ren, Junliang Yu, Tong Chen, Quoc Viet Hung Nguyen, Hongzhi Yin   
 
 1. [Relational Database Distillation: From Structured Tables to Condensed Graph Data](https://arxiv.org/abs/2510.06980)   
